@@ -1,0 +1,10 @@
+The simpliest galaxy strategy. Console network game similar to KDE Conquest.
+
+Available commands:
+"exit" - Quit the game
+"help" - List available commands
+"map" - Dump the space map
+"<name>" - Show info about planet named <name> (<name> is a character)
+"who" - List players and their planets
+"go <from> <to> <number>" - Move (integer) <number> of ships from planet <from> to planet <to> (characters)
+"end" - End turn and wait for others
